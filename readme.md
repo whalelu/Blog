@@ -1,16 +1,13 @@
-[视频介绍](https://www.youtube.com/watch?v=wQ2tMmhc-QU)
+视频介绍[https://www.youtube.com/watch?v=wQ2tMmhc-QU](https://www.youtube.com/watch?v=wQ2tMmhc-QU)
 
 * 主页
 ![home](_images/home.PNG)
 
-
 * Blog
 ![Blog](_images/blog.PNG)
 
-
 * 登陆后的dashboard
 ![dashboard](_images/dashboard.PNG)
-
 
 * 发表blog
 ![create](_images/create.PNG)
